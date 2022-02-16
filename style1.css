@@ -1,0 +1,45 @@
+.top-section{
+  text-align: center;
+  background-color: #212529;
+  color: #ffffffff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  marging:
+
+}
+body{
+  margin: 0px;
+}
+#avatar{
+  width: 15%;
+  
+}
+#skills-header{
+  font-size: 50px;
+  color: #37BBD4;
+  text-align: center;
+
+
+}
+.skills-section{
+  text-align: center;
+}
+#pythonicon{
+  width: 12%;
+  float: right;
+}
+#cloudicon{
+  width: 12%;
+  float: left;
+}
+#webdevicon{
+  width: 12%;
+  float: right;
+}
+.skills-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+#skills-para{
+  line-height: 2;
+}
